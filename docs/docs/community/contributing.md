@@ -29,6 +29,13 @@ translation for you, and then carefully check and correct any mistakes.
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Sevichecc">
+            <img src="https://avatars.githubusercontent.com/u/91365763?v=4" width="100;" alt="Sevichecc"/>
+            <br />
+            <sub><b>SevicheCC</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/evroon">
             <img src="https://avatars.githubusercontent.com/u/11857441?v=4" width="100;" alt="evroon"/>
             <br />
@@ -40,13 +47,6 @@ translation for you, and then carefully check and correct any mistakes.
             <img src="https://avatars.githubusercontent.com/u/35210888?v=4" width="100;" alt="robigan"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sevichecc">
-            <img src="https://avatars.githubusercontent.com/u/91365763?v=4" width="100;" alt="Sevichecc"/>
-            <br />
-            <sub><b>SevicheCC</b></sub>
         </a>
     </td></tr>
 </table>
